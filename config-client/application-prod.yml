@@ -1,0 +1,6 @@
+app:
+  region: prod-tokyo
+db:
+  url: http://localhost:27017
+  username: prod-username
+  password: prod-pass

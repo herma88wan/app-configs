@@ -1,0 +1,6 @@
+app:
+  region: dev-tokyo
+db:
+  url: http://localhost:27017
+  username: dev-username
+  password: dev-pass
